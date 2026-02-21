@@ -14,6 +14,9 @@ memory/heartbeat-state.json
 # Transcript / media artifacts (generated, not personality)
 file_*-*
 
+# Dated data (keep template.json only)
+data/*/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json
+
 # OS and temp
 .DS_Store
 *.tmp
