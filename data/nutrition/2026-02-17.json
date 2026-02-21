@@ -1,0 +1,37 @@
+{
+  "date": "2026-02-17",
+  "meals": {
+    "breakfast": {
+      "time": null,
+      "description": "None",
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    },
+    "lunch": {
+      "time": "12:53",
+      "description": "Half a Dr Pepper, half a large cheeseburger pizza from Dominoes",
+      "calories": 1070,
+      "protein": 40,
+      "carbs": 110,
+      "fat": 50
+    },
+    "dinner": {
+     20:00",
+      "description": "Full "time": " bottle pancake mix, 14 pieces streaky bacon, honey, butter",
+      "calories": 1480,
+      "protein": 45,
+      "carbs": 180,
+      "fat": 75
+    },
+    "snacks": []
+  },
+  "totals": {
+    "calories": 2550,
+    "protein": 85,
+    "carbs": 290,
+    "fat": 125
+  },
+  "notes": "No breakfast"
+}

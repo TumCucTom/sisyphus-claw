@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-19",
+  "workouts": [
+    {
+      "type": "weights",
+      "duration_minutes": 60,
+      "description": "Full body session",
+      "exercises": [
+        {
+          "name": "Bench press",
+          "sets": 5,
+          "reps": 5,
+          "weight_kg": 25,
+          "notes": "dumbbells"
+        },
+        {
+          "name": "Pull-ups",
+          "sets": 5,
+          "reps": 5,
+          "weight_kg": 10,
+          "notes": "weighted"
+        },
+        {
+          "name": "Core twists (landmine)",
+          "sets": 3,
+          "reps": 20,
+          "weight_kg": 20,
+          "notes": ""
+        },
+        {
+          "name": "Overhead press (landmine)",
+          "sets": 3,
+          "reps": 15,
+          "weight_kg": 20,
+          "notes": ""
+        }
+      ],
+      "knee_friendly": true,
+      "RPE": null
+    }
+  ],
+  "total_training_minutes": 60,
+  "notes": ""
+}

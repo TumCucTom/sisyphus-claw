@@ -1,0 +1,20 @@
+# OpenClaw local state (not part of shared personality)
+.openclaw/
+
+# Who you're helping (private — add locally)
+USER.md
+
+# Daily logs and long-term memory (often personal)
+memory/
+MEMORY.md
+
+# Heartbeat state (local)
+memory/heartbeat-state.json
+
+# Transcript / media artifacts (generated, not personality)
+file_*-*
+
+# OS and temp
+.DS_Store
+*.tmp
+*~

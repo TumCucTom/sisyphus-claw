@@ -1,0 +1,65 @@
+{
+  "date": "2026-02-18",
+  "workouts": [
+    {
+      "type": "weights",
+      "duration_minutes": 60,
+      "description": "Free weights session - ~350 cal estimate",
+      "exercises": [
+        {
+          "name": "Bench press",
+          "sets": 3,
+          "reps": null,
+          "weight_kg": 25,
+          "notes": "25kg each hand"
+        },
+        {
+          "name": "Decline press-up",
+          "sets": 3,
+          "reps": "to failure",
+          "weight_kg": null,
+          "notes": ""
+        },
+        {
+          "name": "Lateral raises",
+          "sets": 3,
+          "reps": "to failure",
+          "weight_kg": 12.5,
+          "notes": "12.5kg each hand"
+        },
+        {
+          "name": "Bicep curls (incline bench, arms behind)",
+          "sets": 2,
+          "reps": "to failure",
+          "weight_kg": 10,
+          "notes": ""
+        },
+        {
+          "name": "Bicep curls (incline bench, arms behind)",
+          "sets": 2,
+          "reps": "to failure",
+          "weight_kg": 12.5,
+          "notes": ""
+        },
+        {
+          "name": "Bicep curls (chest on bench, arms dangling)",
+          "sets": 2,
+          "reps": "to failure",
+          "weight_kg": 10,
+          "notes": ""
+        },
+        {
+          "name": "Bicep curls (chest on bench, arms dangling)",
+          "sets": 2,
+          "reps": "to failure",
+          "weight_kg": 12.5,
+          "notes": ""
+        }
+      ],
+      "knee_friendly": true,
+      "RPE": null
+    }
+  ],
+  "total_training_minutes": null,
+  "notes": ""
+}

@@ -1,0 +1,122 @@
+{
+  "date": "2026-02-20",
+  "meals": {
+    "breakfast": {
+      "time": "10:00",
+      "description": "Scrambled eggs",
+      "calories": 250,
+      "protein": 18,
+      "carbs": 2,
+      "fat": 18
+    },
+    "lunch": {
+      "time": null,
+      "description": "None",
+      "calories": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0
+    },
+    "dinner": {
+      "time": "19:00",
+      "description": "Chicken pho",
+      "calories": 450,
+      "protein": 35,
+      "carbs": 55,
+      "fat": 12
+    },
+    "snacks": [
+      {
+        "time": "11:00",
+        "description": "2 slices of toast",
+        "calories": 150,
+        "protein": 5,
+        "carbs": 30,
+        "fat": 2
+      },
+      {
+        "time": "14:00",
+        "description": "Small Bakewell slice",
+        "calories": 200,
+        "protein": 5,
+        "carbs": 40,
+        "fat": 20
+      },
+      {
+        "time": "16:00",
+        "description": "Pack of Wotsits",
+        "calories": 150,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 7
+      },
+      {
+        "time": "20:00",
+        "description": "Rice cracker",
+        "calories": 60,
+        "protein": 1,
+        "carbs": 12,
+        "fat": 1
+      },
+      {
+        "time": "21:00",
+        "description": "Rice cracker",
+        "calories": 60,
+        "protein": 1,
+        "carbs": 12,
+        "fat": 1
+      },
+      {
+        "time": "22:00",
+        "description": "400g Greek yogurt",
+        "calories": 240,
+        "protein": 32,
+        "carbs": 16,
+        "fat": 8
+      },
+      {
+        "time": "23:00",
+        "description": "Rice cracker",
+        "calories": 60,
+        "protein": 1,
+        "carbs": 12,
+        "fat": 1
+      },
+      {
+        "time": "23:30",
+        "description": "2 Ferrero Rocher",
+        "calories": 140,
+        "protein": 2,
+        "carbs": 14,
+        "fat": 10
+      }
+    ],
+    "drinks": [
+      {
+        "time": "21:00",
+        "description": "Guinness",
+        "calories": 200,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 0
+      },
+      {
+        "time": "22:00",
+        "description": "7 Brothers IPA",
+        "calories": 180,
+        "protein": 1,
+        "carbs": 15,
+        "fat": 0
+      }
+    ]
+  },
+  "totals": {
+    "calories": 2080,
+    "protein": 101,
+    "carbs": 169,
+    "fat": 71,
+    "exercise_burn": 400,
+    "net": 1680
+  },
+  "notes": ""
+}

@@ -1,0 +1,23 @@
+{
+  "date": "YYYY-MM-DD",
+  "workouts": [
+    {
+      "type": "swimming|weights|cardio|core|climbing|other",
+      "duration_minutes": null,
+      "description": "",
+      "exercises": [
+        {
+          "name": "",
+          "sets": null,
+          "reps": null,
+          "weight_kg": null,
+          "notes": ""
+        }
+      ],
+      "knee_friendly": true,
+      "RPE": null
+    }
+  ],
+  "total_training_minutes": null,
+  "notes": ""
+}

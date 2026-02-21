@@ -1,0 +1,23 @@
+{
+  "date": "2026-02-20",
+  "workouts": [
+    {
+      "type": "weights",
+      "duration_minutes": 60,
+      "description": "Muscle up progressions",
+      "exercises": [
+        {
+          "name": "Muscle up progressions",
+          "sets": null,
+          "reps": null,
+          "weight_kg": null,
+          "notes": "1 hour session"
+        }
+      ],
+      "knee_friendly": true,
+      "RPE": null
+    }
+  ],
+  "total_training_minutes": 60,
+  "notes": ""
+}

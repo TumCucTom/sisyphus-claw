@@ -1,0 +1,37 @@
+{
+  "date": "YYYY-MM-DD",
+  "meals": {
+    "breakfast": {
+      "time": "HH:MM",
+      "description": "",
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null
+    },
+    "lunch": {
+      "time": "HH:MM",
+      "description": "",
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null
+    },
+    "dinner": {
+      "time": "HH:MM",
+      "description": "",
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null
+    },
+    "snacks": []
+  },
+  "totals": {
+    "calories": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null
+  },
+  "notes": ""
+}

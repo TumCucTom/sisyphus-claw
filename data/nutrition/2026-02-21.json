@@ -1,0 +1,80 @@
+{
+  "date": "2026-02-21",
+  "meals": {
+    "breakfast": {
+      "time": "10:00",
+      "description": "Bacon sandwich, flat white, brownie",
+      "calories": 600,
+      "protein": 25,
+      "carbs": 50,
+      "fat": 35
+    },
+    "lunch": {
+      "time": "15:45",
+      "description": "Minute steak with half and chips, French onion soup",
+      "calories": 800,
+      "protein": 40,
+      "carbs": 60,
+      "fat": 45
+    },
+    "dinner": {
+      "time": null,
+      "description": "",
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null
+    },
+    "snacks": [
+      {
+        "time": "17:00",
+        "description": "G9 crisps",
+        "calories": 150,
+        "protein": 2,
+        "carbs": 15,
+        "fat": 9
+      },
+      {
+        "time": "18:00",
+        "description": "Sandwich on white bread with salami and coleslaw",
+        "calories": 400,
+        "protein": 15,
+        "carbs": 40,
+        "fat": 20
+      },
+      {
+        "time": "19:00",
+        "description": "Pack of Wotsits",
+        "calories": 150,
+        "protein": 2,
+        "carbs": 20,
+        "fat": 7
+      },
+      {
+        "time": "20:00",
+        "description": "Rice cake",
+        "calories": 63,
+        "protein": 1,
+        "carbs": 12,
+        "fat": 1
+      },
+      {
+        "time": "21:00",
+        "description": "Chocolate swirl",
+        "calories": 120,
+        "protein": 2,
+        "carbs": 18,
+        "fat": 5
+      }
+    ]
+  },
+  "totals": {
+    "calories": 2283,
+    "protein": 87,
+    "carbs": 215,
+    "fat": 122,
+    "exercise_burn": 400,
+    "net": 1883
+  },
+  "notes": ""
+}
